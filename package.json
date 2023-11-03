@@ -1,0 +1,20 @@
+{
+  "name": "@txo/tsconfig",
+  "version": "1.0.0",
+  "description": "Technology Studio - Shared Typescript Configuration",
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/technology-studio/tsconfig.git"
+  },
+  "author": {
+    "name": "Technology Studio",
+    "email": "npm@technologystudio.sk",
+    "url": "https://github.com/technology-studio/"
+  },
+  "license": "UNLICENSED",
+  "private": false,
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
