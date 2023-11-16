@@ -1,6 +1,6 @@
 {
   "name": "@txo/tsconfig",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Technology Studio - Shared Typescript Configuration",
   "main": "tsconfig.json",
   "repository": {
