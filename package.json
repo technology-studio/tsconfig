@@ -1,6 +1,6 @@
 {
   "name": "@txo/tsconfig",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "Technology Studio - Shared Typescript Configuration",
   "exports": {
     "./cjs": "./tsconfig.cjs.json",
