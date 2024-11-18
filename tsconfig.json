@@ -13,7 +13,7 @@
     "sourceMap": true,
     "target": "ES2020",
     "moduleResolution": "Node",
-    "module": "CommonJS",
+    "module": "ESNext",
     "resolveJsonModule": true
   }
 }
